@@ -27,5 +27,5 @@ Cookie: PHPSESSID=0389fublnj7ggho8q04fuvfaqe
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
+![](https://github.com/mikeccltt/sns_bug_report/blob/main/simple-social-networking-site-instagram/sql.gif?raw=true)
 
